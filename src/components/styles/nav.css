@@ -1,0 +1,99 @@
+.group {
+    background-color: #000000;
+    height: 130px;
+    position: relative;
+    width: 1580px;
+    border-bottom: 1px solid #8e00ff;
+  }
+  
+  .group .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter-BlackItalic", Helvetica;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 900;
+    left: 39px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 40px;
+    width: 203px;
+  }
+  
+  .group .overlap {
+    height: 48px;
+    left: 427px;
+    position: absolute;
+    top: 51px;
+    width: 360px;
+  }
+  
+  .group .home {
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 197px;
+  }
+  
+  .group .exercises {
+    color: #ffffff;
+    text-decoration:none;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 250px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 197px;
+  }
+  
+  .group .overlap-group {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 53px;
+    left: 1008px;
+    position: absolute;
+    top: 39px;
+    width: 421px;
+  }
+
+  .group .input { 
+    border-radius: 20px;
+    height: 48px;
+    left: 1008px;
+    top: 39px;
+    width: 421px;
+    padding-left: 20px;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  
+  .group .div {
+    cursor: pointer;
+    background-color: #8e00ff;
+    border-radius: 20px;
+    height: 53px;
+    left: 283px;
+    position: absolute;
+    top: 0;
+    color: #ffffff;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 260px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    white-space: nowrap;
+    width: 186px;
+  }
+  
