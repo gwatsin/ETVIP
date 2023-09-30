@@ -14,7 +14,7 @@ const BodyPart = ({ item, setBodyPart, bodyPart }) => (
       window.scrollTo({ top: 1800, left: 0, behavior: 'smooth' });
     }}
   >
-    <img src={Icon} alt="dumbbell" style={{ width: '40px', height: '40px' }} />
+    <img src={Icon} alt="dumbbell" style={{ width: '60px', height: '60px' }} />
     <Typography color= "#FFFFFF" fontFamily= "Helvetica" fontSize= "20px" textTransform="capitalize"> {item}</Typography>
   </Stack>
 );
